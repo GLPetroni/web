@@ -4,6 +4,14 @@
 <head>
   <link rel="index.html" href="styles.css">
 </head>
+main {
+    color: grey;
+}
+body {
+    height: 150vh;
+    background-size: cover;
+    font-family:sans-serif;
+}
 header {
     background-color: lightblue;
     position: fixed;
