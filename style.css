@@ -1,12 +1,7 @@
 main {
     color: grey;
 }
-body {
-    height: 150vh;
-    color: grey;
-    background-size: cover;
-    font-family:sans-serif;
-}
+
 h1 {
     background-color: DodgerBlue;
     top: 0;
