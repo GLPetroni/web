@@ -27,14 +27,5 @@ nav {
     right: 0;
     height: 70px;
 }
-ul {
-    background-color: white;
 
-    display: inline;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 70px;
-}
 </style>
