@@ -14,6 +14,13 @@ h1 {
     right: 0;
     height: 80px;
 }
-
-
+li {
+    Top: 100px;
+    float: left;
+    display: block;
+    padding 10px 5px;
+}
+li a:hover {
+    background-color: blue;
+}  
 </style>
