@@ -12,13 +12,18 @@ h1 {
     left: 0;
     right: 0;
     height: 80px;
+}
+li {
+        float: left;
+}
 nav {
     background-color: white;
-    float: left;
+
     disploay: block;
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     height: 70px;
+}
 </style>
