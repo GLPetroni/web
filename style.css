@@ -13,7 +13,7 @@ h1 {
     right: 0;
     height: 80px;
 }
-li {
+li a {
     float: left;
     display: inline;
     top: 100px;
