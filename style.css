@@ -6,9 +6,8 @@ body {
   font-family: Roboto;
   background-color: white;
 }
-header {
-  
-.h1 {
+
+h1 {
     padding-top: 0;
     padding-right: 0;
     padding-bottom: 0;
@@ -19,13 +18,11 @@ header {
     right: 0;
     height: 100px;
   }
-.nav{
+nav{
   background-color: white;
   clear:both;
   }
-.li {
+li {
   display: block;
   }
-}
-
 </style>
