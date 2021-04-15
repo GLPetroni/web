@@ -6,7 +6,12 @@ body {
   font-family: Roboto;
   background-color: white;
 }
-
+header {
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+}
 h1 {
     padding-top: 0;
     padding-right: 0;
@@ -16,7 +21,7 @@ h1 {
     top: 0;
     left: 0;
     right: 0;
-    height: 100px;
+    height: 40px;
   }
 nav{
   background-color: white;
