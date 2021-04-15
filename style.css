@@ -34,7 +34,10 @@ nav{
   background-color: white;
   clear:both;
   }
+ul {
+  padding-left: 0;
+}
 li {
-  display: block;
+  display: inline;
   }
 </style>
