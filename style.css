@@ -40,7 +40,6 @@ ul {
 }
 li {
   display: inline;
-  float: left;
   padding: 8px;
 }
 li a {
