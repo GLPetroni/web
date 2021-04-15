@@ -1,7 +1,10 @@
+main {
+  background-color: white;
+}
 body {
   margin: 0;
-  font-family: Arial;
-  background-color: grey;
+  font-family: Roboto;
+  background-color: white;
 }
 
 h1 {
