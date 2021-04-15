@@ -47,6 +47,8 @@ li a {
   text-decoration: none;
   test-aline: center;
   color: black;
-  
   }
+.navitem navbar-search {
+   float: right;
+}
 </style>
