@@ -2,35 +2,47 @@ main {
     color: white;
 }
 body {
-    height: 150vh;
-    color: grey;
-    background-size: cover;
-    font-family:sans-serif;
+  margin: 0;
+  font-family: Arial;
 }
-header {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-}
-h1 {
+
+.header {
     background-color: DodgerBlue;
     top: 0;
     left: 0;
     right: 0;
-    height: 150px;
+    height: 100%;
+.nav{
+  overflow: hidden;
+  background-color: white;
 }
-nav {
-    clear:both;
+
+.nav a{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
 }
-li {
-    Top: 100px;
-    float: left;
-    display: block;
-    padding 10px 5px;
+
+.nav a:hover{
+  background-color: white;
+  color: blue;
 }
-li a:hover {
-    background-color: blue;
-}  
+
+.nav a.active {
+  background-color: black;
+  color: white;
+}
+
+.nav input[type=text] {
+  float: right;
+  padding: 5px;
+  border: none;
+  margin-top: 6px;
+  margin-right: 16px;
+  font-size: 15px;
+}
+
 </style>
