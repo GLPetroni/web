@@ -17,24 +17,4 @@ nav{
   display: block;
   background-color: white;
 }
-
-li a{
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 15px;
-}
-
-li a:hover{
-  background-color: white;
-  color: blue;
-}
-
-li a.active {
-  background-color: white;
-  color: black;
-}
-
 </style>
