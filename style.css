@@ -4,6 +4,7 @@ main {
 body {
   margin: 0;
   font-family: Arial;
+  background-color: grey;
 
 
 .h1 {
@@ -13,7 +14,7 @@ body {
     right: 0;
     height: 100%;
 .nav{
-  overflow: hidden;
+  display: block;
   background-color: white;
 }
 
