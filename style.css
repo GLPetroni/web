@@ -37,6 +37,8 @@ nav{
 ul {
   padding-left: 0;
   background-color: white;
+  margin-block-start: 0;
+  margin-block-end: 0em;
 }
 li {
   display: inline;
@@ -53,4 +55,6 @@ li.active {
 li.navitem navbar-search {
    float: right;
 }
+.twit-container {
+  
 </style>
