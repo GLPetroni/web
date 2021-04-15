@@ -36,8 +36,17 @@ nav{
   }
 ul {
   padding-left: 0;
+  background-color: white;
 }
 li {
   display: inline;
+  float: left;
+  padding: 8px;
+}
+li a {
+  text-decoration: none;
+  test-aline: center;
+  color: black;
+  
   }
 </style>
