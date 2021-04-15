@@ -6,7 +6,7 @@ body {
   font-family: Arial;
 
 
-.header {
+.h1 {
     background-color: DodgerBlue;
     top: 0;
     left: 0;
@@ -17,7 +17,7 @@ body {
   background-color: white;
 }
 
-.nav a{
+.li a{
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -26,24 +26,16 @@ body {
   font-size: 15px;
 }
 
-.nav a:hover{
+.li a:hover{
   background-color: white;
   color: blue;
 }
 
-.nav a.active {
-  background-color: black;
-  color: white;
+.li a.active {
+  background-color: white;
+  color: black;
 }
 
-.nav input[type=text] {
-  float: right;
-  padding: 5px;
-  border: none;
-  margin-top: 6px;
-  margin-right: 16px;
-  font-size: 15px;
 }
-    }
 
 </style>
