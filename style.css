@@ -47,6 +47,9 @@ li a {
   test-aline: center;
   color: black;
   }
+li.active {
+  test-decoration:underline;
+}
 li.navitem navbar-search {
    float: right;
 }
