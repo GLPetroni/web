@@ -1,6 +1,4 @@
-main {
-  background-color: gainsboro;
-}
+
 body {
   margin: 0;
   font-family: Roboto;
@@ -19,7 +17,7 @@ header {
 }
 h1 {
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 4px;
     padding-left: 17px;
     margin-top: 0;
     margin-bottom: 0;
@@ -33,9 +31,11 @@ h1 {
     text-decoration: none;
   }
 nav{
-  background-color: white;
-  clear:both;
-  font-size: larger;
+    background-color: white;
+    clear: both;
+    font-size: larger;
+    padding-top: 7px;
+    padding-bottom: 7px;
   }
 ul {
   padding-left: 0;
@@ -55,9 +55,18 @@ li a {
 li.active {
   test-decoration:underline;
 }
-li.navitem navbar-search {
+.navitem navbar-search {
    float: right;
 }
+main {
+  background-color: gainsboro;
+}
 .twit-container {
-  
+    display: grid;
+    grid-template-columns: 200px 200px;
+    padding-left: 166px;
+    padding-top: 74px;
+.twit-icon {
+  font-size: x-large;
+  }
 </style>
