@@ -1,5 +1,5 @@
 main {
-    color: grey;
+    color: white;
 }
 body {
     height: 150vh;
@@ -12,7 +12,7 @@ h1 {
     top: 0;
     left: 0;
     right: 0;
-    height: 80px;
+    height: 100px;
 }
 li {
     Top: 100px;
