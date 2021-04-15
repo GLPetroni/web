@@ -29,6 +29,7 @@ h1 {
     left: 0;
     right: 0;
     height: 40px;
+    text-decoration: none;
   }
 nav{
   background-color: white;
