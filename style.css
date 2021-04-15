@@ -4,7 +4,7 @@ main {
 body {
   margin: 0;
   font-family: Arial;
-}
+
 
 .header {
     background-color: DodgerBlue;
@@ -44,5 +44,6 @@ body {
   margin-right: 16px;
   font-size: 15px;
 }
+    }
 
 </style>
