@@ -5,20 +5,20 @@ body {
   margin: 0;
   font-family: Arial;
   background-color: grey;
+}
 
-
-.h1 {
+h1 {
     background-color: DodgerBlue;
     top: 0;
     left: 0;
     right: 0;
     height: 100%;
-.nav{
+nav{
   display: block;
   background-color: white;
 }
 
-.li a{
+li a{
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -27,16 +27,14 @@ body {
   font-size: 15px;
 }
 
-.li a:hover{
+li a:hover{
   background-color: white;
   color: blue;
 }
 
-.li a.active {
+li a.active {
   background-color: white;
   color: black;
-}
-
 }
 
 </style>
