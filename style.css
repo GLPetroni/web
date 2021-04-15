@@ -23,7 +23,7 @@ h1 {
     position: absolute;
 }
 nav {
-    top: 100px;
+    clear:both;
 }
 li {
     Top: 100px;
