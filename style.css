@@ -57,7 +57,8 @@ li.active {
   test-decoration:underline;
 }
 li.navitem.navbar-search {
-   float: right;
+  float: right;
+  padding: 0;
 }
 main {
   background-color: gainsboro;
