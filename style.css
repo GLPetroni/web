@@ -56,7 +56,7 @@ li a {
 li.active {
   test-decoration:underline;
 }
-#navitem navbar-search {
+li.navitem.navbar-search {
    float: right;
 }
 main {
