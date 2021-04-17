@@ -68,10 +68,11 @@ main {
     grid-template-columns: 200px 200px;
     padding-left: 166px;
     padding-top: 74px;
+}
 .twit-icon {
   font-size: x-large;
   }
-  article.twit {
+article.twit {
     width: 291px;
     height: 90px;
     border: 1px solid black;
