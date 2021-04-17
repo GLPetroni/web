@@ -69,6 +69,8 @@ main {
     grid-column-gap: 194px;
     padding-left: 169px;
     padding-top: 74px;
+    padding: 59px;
+    padding-bottom: 240px;
 }
 .twit-icon {
   font-size: x-large;
@@ -83,4 +85,13 @@ article.twit {
     padding-bottom: 35px;
     margin: 3px;
   }
+button#create-twit-button {
+    float: right;
+    font-size: xx-large;
+    border: 20px solid red;
+    border-radius: 180px;
+    background-color: red;
+    color: white;
+    padding: 0;
+}
 </style>
