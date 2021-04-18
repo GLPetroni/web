@@ -15,7 +15,7 @@ header {
     margin-right: 0;
     margin-left: 0;
 }
-button#navmarj-search-button {
+button#navbar-search-button {
   boarder: 0;
 }
 input#navbar-search-input {
@@ -83,6 +83,18 @@ main {
   }
 p.twit-author {
   float: right;
+}
+p.twit-author:link {
+  color: black;
+}
+p.twit-author:hover {
+  color: lightblue;
+}
+p.twit-author:active { 
+  
+}
+p.twit-author:visited {
+  
 }
 article.twit {
     background-color: white;
