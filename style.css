@@ -76,12 +76,12 @@ main {
   font-size: x-large;
   }
 p.twit-author {
-  float: left;
+  float: right;
 }
 article.twit {
     background-color: white;
     width: 369px;
-    height: 85px;
+    height: 105px;
     border: 1px solid black;
     padding-top: 13px;
     padding-left: 16px;
