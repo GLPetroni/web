@@ -17,6 +17,7 @@ header {
 }
 button#navbar-search-button {
   boarder: 0;
+  color: grey;
 }
 input#navbar-search-input {
   background-color: gainsboro;
