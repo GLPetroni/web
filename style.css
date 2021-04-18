@@ -83,6 +83,10 @@ main {
   }
 p.twit-author {
   float: right;
+  font: Roboto;
+  font-size: large;
+  font-weight: bold;
+  
 }
 p.twit-author:link {
   color: black;
