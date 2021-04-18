@@ -15,6 +15,12 @@ header {
     margin-right: 0;
     margin-left: 0;
 }
+button#navmarj-search-button {
+  boarder: 0;
+}
+input#navbar-search-input {
+  background-color: gainsboro;
+}
 h1 {
     padding-top: 10px;
     padding-bottom: 4px;
