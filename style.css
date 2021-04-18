@@ -88,8 +88,9 @@ p.twit-author {
   font-weight: bold;
   
 }
-p.twit-author:link {
-  color: black;
+a {
+   color: black;
+   text-decoration: none;
 }
 p.twit-author:hover {
   color: lightblue;
