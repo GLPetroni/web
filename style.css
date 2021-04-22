@@ -61,7 +61,7 @@ li a {
   color: black;
   }
 li.active {
-  test-decoration:underline;
+  text-decoration:underline;
 }
 li.navitem.navbar-search {
   float: right;
@@ -90,12 +90,12 @@ p.twit-author {
   font-weight: bold;
   
 }
+p.twit-author:hover {
+  color: lightblue;
+}
 a {
    color: black;
    text-decoration: none;
-}
-p.twit-author:hover {
-  color: lightblue;
 }
 
 article.twit {
