@@ -101,6 +101,9 @@ a {
    text-decoration: none;
 }
 
+a:hover {
+  color: lightblue;
+}
 article.twit {
     background-color: white;
     width: 369px;
