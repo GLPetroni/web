@@ -94,7 +94,7 @@ a {
    color: black;
    text-decoration: none;
 }
-p.twit-author:hover {
+p.twit-author::hover {
   color: lightblue;
 }
 p.twit-author:active { 
