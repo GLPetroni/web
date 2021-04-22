@@ -78,6 +78,7 @@ main {
     padding-top: 74px;
     padding: 59px;
     padding-bottom: 240px;
+    flex-wrap: wrap;
 }
 .twit-icon {
   font-size: x-large;
