@@ -1,4 +1,6 @@
-
+html {
+  background-color: gainsboro;
+}
 body {
   margin: 0;
   font-family: Roboto;
@@ -90,15 +92,7 @@ main {
   font-weight: bold;
   
 }
-.twit-author:hover # {
-  color: lightblue;
-}
-
-p.twit-author:hover # {
-  color: lightblue;
-}
-
-p.twit-author:hover {
+.twit-author:hover {
   color: lightblue;
 }
 
