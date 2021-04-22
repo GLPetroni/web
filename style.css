@@ -83,14 +83,14 @@ main {
 .twit-icon {
   font-size: x-large;
   }
-p.twit-author {
+.twit-author {
   float: right;
   font: Roboto;
   font-size: large;
   font-weight: bold;
   
 }
-p.twit-author:hover {
+.twit-author:hover {
   color: lightblue;
 }
 a {
