@@ -90,9 +90,18 @@ main {
   font-weight: bold;
   
 }
-.twit-author:hover {
+.twit-author:hover # {
   color: lightblue;
 }
+
+p.twit-author:hover # {
+  color: lightblue;
+}
+
+p.twit-author:hover {
+  color: lightblue;
+}
+
 a {
    color: black;
    text-decoration: none;
