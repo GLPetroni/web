@@ -67,7 +67,7 @@ li a {
   }
 li.active {
   text-decoration:underline;
-  -webkit-text-decoration-color: lightblue;
+  text-decoration-color: lightblue;
   text-decoration-thickness: 7px;
 }
 li.navitem.navbar-search {
