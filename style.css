@@ -21,6 +21,9 @@ button#navbar-search-button {
   border: 0;
   border-color: grey;
 }
+button#navbar-search-button:hover {
+    color: lightblue:
+}
 input#navbar-search-input {
   background-color: gainsboro;
 }
