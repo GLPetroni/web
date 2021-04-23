@@ -19,7 +19,7 @@ header {
 }
 button#navbar-search-button {
   border: 0;
-  border-color: grey;
+  border-color: white;
 }
 button#navbar-search-button:hover {
     color: lightblue:
