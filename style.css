@@ -62,6 +62,7 @@ li {
 }
 li a {
   text-decoration: none;
+  text-decoration-color: lightblue;
   test-aline: center;
   color: black;
   }
