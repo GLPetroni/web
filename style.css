@@ -122,10 +122,18 @@ article.twit {
 button#create-twit-button {
     float: right;
     font-size: xx-large;
-    border: 20px solid red;
+    border: 14px solid red;
     border-radius: 180px;
     background-color: red;
     color: white;
     padding: 0;
 }
+button#create-twit-button:hover {
+    float: right;
+    font-size: xx-large;
+    border: 20px solid lightblue;
+    border-radius: 180px;
+    background-color: lightblue;
+    color: white;
+    padding: 0;
 </style>
