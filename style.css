@@ -47,10 +47,12 @@ h1 {
     right: 0;
     height: 40px;
     text-decoration: none;
-    text-color: white;
+    color: white;
+    font-size: 29px;
+    font-weight: 150;
   }
 
-nav{
+nav {
     background-color: white;
     clear: both;
     font-size: larger;
