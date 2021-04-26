@@ -96,10 +96,9 @@ main {
 
 .twit-container {
     display: flex;
-    padding-left: 169px;
-    padding-top: 74px;
-    padding: 59px;
-    padding-bottom: 195px;
+    padding-left: 1289px;
+    padding-top: 79px;
+    padding-bottom: 265px;
     flex-wrap: wrap;
 }
 
