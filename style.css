@@ -22,7 +22,7 @@ button#navbar-search-button {
   border-color: white;
 }
 button#navbar-search-button:hover {
-    color: lightblue:
+    color: lightblue;
 }
 input#navbar-search-input {
   background-color: gainsboro;
