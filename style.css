@@ -95,9 +95,7 @@ main {
 }
 
 .twit-container {
-    display: grid;
-    grid-template-columns: 200px 200px 200px;
-    grid-column-gap: 194px;
+    display: flex;
     padding-left: 169px;
     padding-top: 74px;
     padding: 59px;
@@ -140,6 +138,8 @@ article.twit {
     padding-left: 16px;
     padding-bottom: 35px;
     margin: 3px;
+    display: flex;
+    flex-wrap: wrap;
   }
 
 button#create-twit-button {
