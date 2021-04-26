@@ -26,7 +26,7 @@ button#navbar-search-button {
 }
 
 button#navbar-search-button:hover {
-    color: lightblue;
+    color: #54A4E2;
 }
 
 input#navbar-search-input {
@@ -72,14 +72,14 @@ li {
 
 li a {
   text-decoration: none;
-  text-decoration-color: lightblue;
+  text-decoration-color: #319DF6;
   test-aline: center;
   color: black;
   }
 
 li.active {
   text-decoration:underline;
-  text-decoration-color: lightblue;
+  text-decoration-color: #319DF6;
   text-decoration-thickness: 4px;
 }
 
@@ -115,7 +115,7 @@ main {
 }
 
 .twit-author:hover {
-  color: lightblue;
+  color: #53A4EB;
 }
 
 a {
@@ -124,7 +124,7 @@ a {
 }
 
 a:hover {
-  color: lightblue;
+  color: #319DF6;
 }
 
 article.twit {
@@ -151,9 +151,9 @@ button#create-twit-button {
 button#create-twit-button:hover {
     float: right;
     font-size: xx-large;
-    border: 20px solid lightblue;
+    border: 20px solid #3AA7F7;
     border-radius: 180px;
-    background-color: lightblue;
+    background-color: #3AA7F7;
     color: white;
     padding: 0;
 }
