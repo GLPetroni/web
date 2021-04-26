@@ -114,6 +114,7 @@ main {
   font: Roboto;
   font-size: large;
   font-weight: bold;
+  margin: 0;
 }
 
 .twit-author:hover {
