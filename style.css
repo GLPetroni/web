@@ -112,6 +112,7 @@ main {
 .twit-author {
   float: right;
   font: Roboto;
+  font-color: #373744;
   font-size: large;
   font-weight: bold;
   margin: 0;
