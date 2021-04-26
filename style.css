@@ -131,9 +131,9 @@ button#create-twit-button {
 button#create-twit-button:hover {
     float: right;
     font-size: xx-large;
-    border: 20px solid lightblue;
+    border: 20px solid blue;
     border-radius: 180px;
-    background-color: lightblue;
+    background-color: blue;
     color: white;
     padding: 0;
 </style>
