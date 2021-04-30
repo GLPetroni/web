@@ -5,3 +5,11 @@ function display()
     display[i].style.display='block'
   }
 }
+
+function hide()
+{
+  var hide = document.getElementsByClassName("hidden");
+  for(var i = 0; i < hide.length; i++) { 
+    hide[i].style.display='none'
+  }
+}
