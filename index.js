@@ -1,6 +1,6 @@
 function display()
 {
-  var display = document.getElementByClassName("hidden");
+  var display = document.getElementsByClassName("hidden");
   if (display.style.display === "none") {
     display.style.display = "block";
   } else {
