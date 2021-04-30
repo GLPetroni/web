@@ -1,9 +1,9 @@
 function display()
 {
-  var display = document.getElementById("modal-backdrop");
+  var display = document.getElementByClassName("hidden");
   if (display.style.display === "none") {
-    x.style.display = "block";
+    display.style.display = "block";
   } else {
-    x.style.display = "none";
+    display.style.display = "none";
   }
 }
