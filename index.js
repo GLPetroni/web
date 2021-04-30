@@ -1,4 +1,5 @@
-function display(hidden)
+function display()
 {
-  hidden.style.display = 'block';
+  var display = document.getElementByClass('hidden');
+  display.style.display = 'block';
 }
