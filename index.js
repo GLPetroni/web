@@ -1,7 +1,7 @@
 function display()
 {
   var display = document.getElementsByClassName("hidden");
-  for(var i = 0; i < hidden.length; i++) { 
-    hidden[i].style.display='block'
+  for(var i = 0; i < display.length; i++) { 
+    display[i].style.display='block'
   }
 }
