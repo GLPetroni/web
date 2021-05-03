@@ -16,8 +16,8 @@ function hide()
 
 function make_twit() 
 {
-  var content = document.getElementById("twit-text-input").value;  //text-content!
-  var author = document.getElementById("twit-attribution-input").value;
+  var content = document.getElementById("twit-text-input").textContent;
+  var author = document.getElementById("twit-attribution-input").textContent;
   
   var twit = document.createElement("ARTICLE");
   var twit_icon = document.createElement("DIV");
