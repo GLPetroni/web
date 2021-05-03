@@ -30,8 +30,5 @@ function make_twit()
   document.getElementByClassName("twit_content").appendChild(twit_text);
   document.getElementByClassName("twit_content").appendChild(twit_author);
   document.getElementByClassName("twit-container").appendChild(twit)
-  var close = document.getElementsByClassName("hidden");
-  for(var i = 0; i < close.length; i++) { 
-    close[i].style.display='none'
-  }
+  hide();
 }
