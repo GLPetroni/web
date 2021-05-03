@@ -26,9 +26,10 @@ function make_twit()
   var twit_text =  document.createElement("DIV");
   document.getElementByClassName("twit_text").value = content;
   var twit_author = document.createElement("DIV");
-  document.getElementByClassName("twit_author").value = author;
-  document.getElementByClassName("twit_content").appendChild(twit_text);
-  document.getElementByClassName("twit_content").appendChild(twit_author);
+  twit_author.value = author;
+  twit_content.appendChild(twit_text);
+  twit_content.appendChild(twit_author);
+  twit.appendChild(twit_content);
   document.getElementByClassName("twit-container").appendChild(twit);
   hide();
 }
