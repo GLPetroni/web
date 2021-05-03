@@ -24,7 +24,7 @@ function make_twit()
   twit_icon.appendChild(bullhorn);
   var twit_content = document.createElement("DIV");
   var twit_text =  document.createElement("DIV");
-  document.getElementByClassName("twit_text").value = content;
+twit_text.value = content;
   var twit_author = document.createElement("DIV");
   twit_author.value = author;
   twit_content.appendChild(twit_text);
