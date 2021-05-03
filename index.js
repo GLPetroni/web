@@ -17,7 +17,7 @@ function hide()
 function make_twit() 
 {
   var content = document.getElementById("twit-text-input").value;
-  var author = document.getElementById("twit-attribgution-input").value;
+  var author = document.getElementById("twit-attribution-input").value;
   var twit = document.createElement("ARTICLE");
   var twit_icon = document.createElement("DIV");
   var bullhorn = document.createElement("DIV");
