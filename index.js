@@ -6,7 +6,7 @@ function display()
   }
 }
 
-function close() 
+function hide() 
 {
     var hide = document.getElementsByClassName("hidden");
     for(var i = 0; i < hide.length; i++) { 
