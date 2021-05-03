@@ -19,14 +19,14 @@ function make_twit()
   var content = document.getElementById("twit-text-input").textContent;
   var author = document.getElementById("twit-attribution-input").textContent;
   
-  var twit = document.createElement("ARTICLE");
-  var twit_icon = document.createElement("DIV");
-  var bullhorn = document.createElement("DIV");
+  var article = document.createElement("ARTICLE");
+  var div1 = document.createElement("DIV");
+  var div2 = document.createElement("DIV");
   
   twit_icon.appendChild(bullhorn);
   
-  var twit_content = document.createElement("DIV");
-  var twit_text =  document.createElement("DIV");
+  var div3 = document.createElement("DIV");
+  var div4 =  document.createElement("DIV");
   
   twit_text.value = content;
   
