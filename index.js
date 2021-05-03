@@ -6,10 +6,18 @@ function display()
   }
 }
 
-function hide()
+function close()
 {
   var hide = document.getElementsByClassName("hidden");
   for(var i = 0; i < hide.length; i++) { 
     hide[i].style.display='none'
+  }
+}
+
+function post_twit() 
+{
+    var hide = document.getElementsByClassName("hidden");
+    for(var i = 0; i < hide.length; i++) { 
+      hide[i].style.display='none'
   }
 }
