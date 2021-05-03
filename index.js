@@ -6,11 +6,11 @@ function display()
   }
 }
 
-function close()
+function close() 
 {
-  var hide = document.getElementsByClassName("hidden");
-  for(var i = 0; i < hide.length; i++) { 
-    hide[i].style.display='none'
+    var hide = document.getElementsByClassName("hidden");
+    for(var i = 0; i < hide.length; i++) { 
+      hide[i].style.display='none'
   }
 }
 
