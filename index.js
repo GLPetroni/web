@@ -30,6 +30,6 @@ twit_text.value = content;
   twit_content.appendChild(twit_text);
   twit_content.appendChild(twit_author);
   twit.appendChild(twit_content);
-  document.quereselector.twit-container.appendChild(twit);
+  document.querySelector('.twit-container').appendChild(twit);
   hide();
 }
